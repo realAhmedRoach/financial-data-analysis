@@ -1,0 +1,4 @@
+quandl
+alpha_vantage
+pandas
+numpy
